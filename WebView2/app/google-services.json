@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011120680417",
+    "firebase_url": "https://syalalallal.firebaseio.com",
+    "project_id": "syalalallal",
+    "storage_bucket": "syalalallal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011120680417:android:21ed8c9c808a1c46",
+        "android_client_info": {
+          "package_name": "com.yuvetagmail.malangTIMES"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011120680417-31robns66i3r36re6hao5kap8davcpgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuvetagmail.malangTIMES",
+            "certificate_hash": "3f3e39e054ed54e158ed45e95ef8ae6db071f791"
+          }
+        },
+        {
+          "client_id": "1011120680417-1pvv95bv92m46inoqcj57k20mpstn660.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MAzp82gkH8xvUaU66YKUIayXDDS2q6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011120680417-1pvv95bv92m46inoqcj57k20mpstn660.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
